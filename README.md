@@ -62,3 +62,34 @@ Play the live version here: [Memory Game Demo](https://naiduhydra.github.io/memo
 
 ## Project Structure
 
+
+- **HTML**: Card grid, scoreboard, restart button  
+- **CSS**: Responsive card layout and animations  
+- **JavaScript**:  
+  - Shuffles cards  
+  - Handles flip/match logic  
+  - Tracks moves and timer  
+  - Resets game state
+
+---
+
+## Contributing
+
+Contributions welcome! Suggestions:
+
+- Add difficulty levels (e.g. larger grids)  
+- Improve styling and animations  
+- Package as a reusable component or NPM module
+
+To contribute:
+
+1. Fork the project  
+2. Create a feature branch: `git checkout -b feature-name`  
+3. Commit your changes and push to your fork  
+4. Open a pull request with a description of your changes
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

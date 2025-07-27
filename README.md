@@ -1,4 +1,4 @@
-# Memory Game (memory-hcj)
+# Memory Game (memory-hcj
 
 A classic card-matching Memory Game implemented in JavaScript, HTML, and CSS. Flip cards to find matching pairs, track moves and time — fun and simple!
 
